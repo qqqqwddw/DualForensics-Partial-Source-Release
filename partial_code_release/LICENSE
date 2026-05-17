@@ -1,0 +1,18 @@
+DualForensics Partial Source Release License
+
+Copyright (c) 2026 DualForensics authors. All rights reserved.
+
+Permission is granted to access, read, copy, and use the files in this partial source release solely for non-commercial academic research, peer review, and reproducibility evaluation.
+
+You may not:
+- use this release for commercial purposes without prior written permission;
+- redistribute modified versions as an official DualForensics release;
+- claim authorship or ownership of the DualForensics method, code, checkpoints, datasets, or unpublished experiment pipeline;
+- remove copyright, attribution, or license notices;
+- infer that omitted files, checkpoints, data, or private experiment scripts are licensed or released.
+
+Any publication, report, repository, or derivative work using this release must clearly attribute the DualForensics authors and cite the associated paper/preprint.
+
+This software is provided "as is", without warranty of any kind, express or implied.
+
+Note: This is a source-available research license, not an OSI-approved open-source license. Replace this file with a standard open-source license only if you intentionally grant those broader rights.
